@@ -61,13 +61,13 @@ Countplot is ideal for categorical data and helps in understanding how employees
 * A scatter plot was used to visualize the relationship between Age and Salary.
 * Correlation value was calculated as 0.21.
 * Reason for using scatter plot: Scatter plots are ideal for identifying relationships between two numerical variables.
-*Insight: There is a weak positive correlation, meaning salary tends to increase slightly with age, but the relationship is not strong.
+* Insight: There is a weak positive correlation, meaning salary tends to increase slightly with age, but the relationship is not strong.
 # Conclusion
 This project highlights the importance of:
 * Proper data cleaning for accurate analysis
 * Choosing appropriate visualization techniques
 * Interpreting results to derive meaningful insights
-The analysis provides a clear understanding of workforce structure, salary distribution, and employee demographics.
+* The analysis provides a clear understanding of workforce structure, salary distribution, and employee demographics.
 # How to Run the Project
 * Download the dataset
 * Open the Jupyter Notebook
