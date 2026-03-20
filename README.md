@@ -39,8 +39,7 @@ The following steps were performed to clean and prepare the dataset:
 * The percentage distribution was also calculated
 * Reason for using countplot:
 Countplot is ideal for categorical data and helps in understanding how employees are distributed across different teams
-* Insight:
-Employees are fairly evenly distributed across teams, with minor variations in counts
+* Insight: Employees are fairly evenly distributed across teams, with minor variations in counts
 
 **2. Segregation of Employees by Position**
 * A countplot was used to show the number of employees in each position
