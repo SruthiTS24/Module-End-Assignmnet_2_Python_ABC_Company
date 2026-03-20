@@ -13,7 +13,7 @@ dataset: https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.git
 * Matplotlib & Seaborn – Data visualization
 * Jupyter Notebook – Interactive development environment
 # Dataset Description
-*The dataset consists of the following columns:
+The dataset consists of the following columns:
 * Name – Employee name
 * Team – Team to which the employee belongs
 * Number – employee number
