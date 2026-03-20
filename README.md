@@ -4,7 +4,8 @@
 This project involves analyzing an employee dataset containing 458 records and 9 attributes. The objective is to perform systematic data preprocessing, exploratory data analysis (EDA), and visualization to extract meaningful insights about employee distribution, roles, age patterns, salary expenditure, and relationships between variables.
 
 The project emphasizes not only performing analysis but also explaining the reasoning behind each step to ensure clarity and correctness.
-dataset:
+
+dataset: https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FSruthiTS24%2FModule-End-Assignmnet_2_Python_ABC_Company%2Frefs%2Fheads%2Fmain%2FABC%2520Company.xlsx&wdOrigin=BROWSELINK
 # Tools and Technologies used
 * Python – Core programming language
 * Pandas – Data manipulation
