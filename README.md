@@ -43,7 +43,7 @@ Countplot is ideal for categorical data and helps in understanding how employees
 
 **2. Segregation of Employees by Position**
 * A countplot was used to show the number of employees in each position
-* Reason for using countplot:Position is a categorical variable, and countplot clearly shows the frequency of each role
+* Reason for using countplot: Position is a categorical variable, and countplot clearly shows the frequency of each role
 * Insight: Certain positions such as 'SG' and 'PF' have higher representation compared to others
   
 **3. Predominant Age Group**
