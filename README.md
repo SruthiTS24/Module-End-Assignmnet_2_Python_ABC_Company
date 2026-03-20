@@ -41,19 +41,23 @@ The following steps were performed to clean and prepare the dataset:
 Countplot is ideal for categorical data and helps in understanding how employees are distributed across different teams
 * Insight:
 Employees are fairly evenly distributed across teams, with minor variations in counts
+
 **2. Segregation of Employees by Position**
 * A countplot was used to show the number of employees in each position
 * Reason for using countplot:Position is a categorical variable, and countplot clearly shows the frequency of each role
 * Insight: Certain positions such as 'SG' and 'PF' have higher representation compared to others
+  
 **3. Predominant Age Group**
 * Used histogram with defined bins to analyze age distribution
 * Reason for using histogram: Age is a numerical variable, and histogram is the most suitable method to observe its distribution and identify concentration (peaks)
 * Insight: The peak occurs in the 25–30 age range, and most employees fall between 20–30 years, indicating a predominantly young workforce
+  
 **4. Salary Expenditure Analysis**
 * Total salary expenditure was calculated for both teams and positions.
 * Bar charts were used for visualization
 * Reason for using bar charts: Bar charts are effective for comparing aggregated numerical values across categories.
 * Insights: The Cleveland Cavaliers have the highest salary expenditure among teams. Positions such as 'C' and 'PG' contribute the most to salary expenditure.
+
 **5. Correlation Between Age and Salary**
 * A scatter plot was used to visualize the relationship between Age and Salary.
 * Correlation value was calculated as 0.21.
